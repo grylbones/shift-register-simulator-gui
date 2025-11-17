@@ -72,7 +72,7 @@ Each register type is structured using an abstract base class and multiple polym
 ---
 
 ## Author
--Chinnagundam Harsha\n
--Shashank Dorbala\n
--Rishi Chitturi \n
+-  Chinnagundam Harsha <br>
+-  Shashank Dorbala <br>
+-  Rishi Chitturi <br>
 Project developed out of interest in digital electronics, OOP, and GUI design.
