@@ -71,7 +71,7 @@ Each register type is structured using an abstract base class and multiple polym
 
 ---
 
-## Author
+## Authors
 -  Chinnagundam Harsha <br>
 -  Shashank Dorbala <br>
 -  Rishi Chitturi <br>
