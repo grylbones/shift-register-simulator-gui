@@ -73,5 +73,5 @@ Each register type is structured using an abstract base class and multiple polym
 
 ## Author
 
--Shashank Dorbala
+-Rishi Chitturi 
 Project developed out of interest in digital electronics, OOP, and GUI design.
